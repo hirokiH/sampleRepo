@@ -1,4 +1,5 @@
 sampleRepo
-==========
 
-Practice repo
+This is a sample repository.
+
+
